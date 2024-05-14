@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810421527868",
+    "project_id": "oriksha-app",
+    "storage_bucket": "oriksha-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810421527868:android:ec8cfe419cf1afecf26a39",
+        "android_client_info": {
+          "package_name": "com.oriksha_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABJhbbs5U2KRfgAlKSBjQNjIsxPvXT2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
